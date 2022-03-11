@@ -1,0 +1,31 @@
+
+    #navbar {
+        position: fixed;
+        top:0px;
+        left:0px;
+        
+            width: 100%;
+            background-color: aqua ;
+          }
+          nav ul {
+            margin: 10px;
+            padding: 9px 0px 15px 30px;
+          }
+          nav li {
+            display:inline-flex;
+            margin-left: 50px;
+        
+          }
+          a {
+            text-decoration: none;
+          }
+
+}
+img{
+ 
+}
+body {
+    background-color: rgb(204, 193, 197);
+    margin-top: 75px; /* this keeps nav bar from blocking top of body at top*/
+    
+}
